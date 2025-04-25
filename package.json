@@ -1,0 +1,12 @@
+{
+  "name": "birthday-animation",
+  "version": "1.0.0",
+  "description": "Fun birthday animation",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
